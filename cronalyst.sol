@@ -3,6 +3,7 @@
 CROnalyst - Safest Token on CRO
 
 Powering @cronalyst group on Telegram to take down scammers and rugs in the CRO chain.
+Removed setFees(), setMaxWallet() and setMaxTxLimit() to avoid rugs/honeypots or any exit scams.
 Join us!
 
 */
